@@ -1,0 +1,524 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.09"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "LucasMS115"]
+[Result "0-1"]
+[WhiteElo "334"]
+[BlackElo "866"]
+[TimeControl "600"]
+[EndTime "18:58:41 PDT"]
+[Termination "LucasMS115 venceu por tempo"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c5 4. b3 h6 5. Bb5+ Ke7 6. O-O Qb6 7. Nd5+ Ke6 8. Nxb6
+axb6 9. Bc4+ Ke7 10. Nh4 g5 11. Nf5+ Kd7 12. Ba3 Rh7 13. Bb2 Kd8 14. Qf3 h5 15.
+Bb5 Ra5 16. Qd3 Rxb5 17. Nxd6 Nd7 18. Qxb5 Bxd6 19. Qd3 Ngf6 20. Qxd6 Nxe4 21.
+Qxe5 Nxe5 22. Bxe5 Nxd2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.09"]
+[Round "-"]
+[White "LucasMS115"]
+[Black "laiscarraro"]
+[Result "0-1"]
+[WhiteElo "556"]
+[BlackElo "644"]
+[TimeControl "600"]
+[EndTime "19:17:45 PDT"]
+[Termination "laiscarraro venceu por tempo"]
+
+1. Nc3 Nc6 2. d3 Nf6 3. f4 g6 4. g3 Bh6 5. a4 O-O 6. Ra3 Nb4 7. Be3 Nfd5 8. Nb1
+Nxe3 9. d4 Nxd1 10. Kxd1 e6 11. c3 Qf6 12. cxb4 Qxd4+ 13. Kc2 d5 14. Rb3 Qc4+
+15. Nc3 d4 16. Nf3 dxc3 17. bxc3 Bd7 18. Nd2 Qd5 19. e4 Qh5 20. g4 Qxg4 21. Bc4
+Bxf4 22. h3 Qg3 23. Nf1 Qf2+ 24. Kd1 Bxa4 25. Rh2 Qxf1+ 26. Bxf1 Bxb3+ 27. Ke1
+Rfd8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.09"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "LucasMS115"]
+[Result "0-1"]
+[WhiteElo "489"]
+[BlackElo "711"]
+[TimeControl "600"]
+[EndTime "19:21:23 PDT"]
+[Termination "LucasMS115 venceu por xeque-mate"]
+
+1. Nf3 f5 2. e3 e6 3. Bc4 Bd6 4. O-O Nh6 5. Nc3 Ng4 6. Ng5 Qxg5 7. Nb5 Qh4 8. d4
+Qxh2# 0-1
+
+[Event "vs Computer"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "Zombanny"]
+[Result "1-0"]
+[WhiteElo "489"]
+[BlackElo "400"]
+[TimeControl "1/0"]
+[EndDate "2022.10.11"]
+[Termination "laiscarraro venceu por xeque-mate"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bc4 b6 6. Bd5 Qd7 7. Bxa8 b5 8. O-O
+g5 9. Bxg5 e5 10. Nf3 a5 11. Nxe5 Ba6 12. Nxd7 Kxd7 13. Bxf6 Bc8 14. Nd2 Rg8 15.
+Qe2 Ke8 16. Qxb5+ Nd7 17. Bb7 Rg6 18. Bxc8 Rxf6 19. Qxd7# 1-0
+
+[Event "vs Computer"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "Martin-BOT"]
+[Result "1-0"]
+[WhiteElo "489"]
+[BlackElo "250"]
+[TimeControl "1/0"]
+[EndDate "2022.10.11"]
+[Termination "laiscarraro venceu por xeque-mate"]
+
+1. e4 d5 2. exd5 Qd6 3. Nc3 c6 4. d4 Bd7 5. Ne4 Bc8 6. Nxd6+ exd6 7. Nf3 Nd7 8.
+Bd3 b5 9. dxc6 b4 10. cxd7+ Kxd7 11. O-O Bb7 12. Ng5 Nf6 13. Nxf7 Rb8 14. Nxh8
+Be7 15. Bf5+ Ke8 16. Re1 Kf8 17. Ng6+ Kf7 18. Nxe7 g6 19. Be6+ Kf8 20. Bh6+ Kxe7
+21. Bc4+ Kd8 22. Re6 Bc6 23. Rxf6 Kc7 24. Qg4 Rb6 25. Qe6 Kd8 26. Rf8+ Kc7 27.
+Qf7+ Bd7 28. Qd5 Bf5 29. Rxf5 Kc8 30. Qc5+ dxc5 31. dxc5 gxf5 32. cxb6 Kd7 33.
+bxa7 Kd8 34. a8=Q+ Ke7 35. Re1+ Kd7 36. Qb7+ Kd8 37. Re8+ Kxe8 38. Bg5 h5 39.
+Qc8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "Mtselway"]
+[Black "laiscarraro"]
+[Result "1-0"]
+[WhiteElo "401"]
+[BlackElo "336"]
+[TimeControl "600"]
+[EndTime "17:24:07 PDT"]
+[Termination "Mtselway venceu por desistência"]
+
+1. d4 d5 2. Nc3 Nc6 3. Qd2 e5 4. e4 exd4 5. exd5 dxc3 6. Qxc3 Nce7 7. Rb1 Nf6 8.
+Bf4 Nfxd5 9. Qb3 Nxf4 10. Rd1 Nxg2+ 11. Bxg2 Bg4 12. Rxd8+ Kxd8 13. Qxb7 Nc8 14.
+Qxa8 Ke7 15. Qxc8 Bxc8 16. a4 g5 17. b4 h5 18. Nf3 g4 19. Nd4 Rh6 20. Kd1 Bg7
+21. Re1+ Kf8 22. Nb5 Ba6 23. Nxa7 Bb2 24. Re2 Rd6+ 25. Rd2 g3 26. fxg3 Rf6 27.
+Rd7 Rf1+ 28. Bxf1 Bxf1 29. Rxc7 Bc4 30. Rxc4 1-0
+
+[Event "vs Computer"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "Martin-BOT"]
+[Result "1-0"]
+[WhiteElo "336"]
+[BlackElo "250"]
+[TimeControl "1/0"]
+[EndDate "2022.10.11"]
+[Termination "laiscarraro venceu por xeque-mate"]
+
+1. e4 e5 2. Nf3 f6 3. d4 d6 4. Bc4 Ne7 5. dxe5 g6 6. O-O Nd7 7. exf6 Nxf6 8. Ng5
+a5 9. Qe2 h6 10. Nf3 c5 11. Bb5+ Kf7 12. Bxh6 Bxh6 13. Qc4+ Be6 14. Qd3 Nd7 15.
+Bxd7 Kg7 16. Bxe6 Ra7 17. Nc3 Rh7 18. Nh4 a4 19. Nb5 Qf8 20. Nxa7 Qf6 21. g3 Kf8
+22. Qxd6 Qxb2 23. Nf5 b6 24. Qd8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "Renato26364"]
+[Result "1-0"]
+[WhiteElo "436"]
+[BlackElo "365"]
+[TimeControl "600"]
+[EndTime "17:39:15 PDT"]
+[Termination "laiscarraro venceu - partida abandonada"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d5 4. exd5 Nxd4 5. Be3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "fxei3"]
+[Black "laiscarraro"]
+[Result "1-0"]
+[WhiteElo "396"]
+[BlackElo "352"]
+[TimeControl "600"]
+[EndTime "17:55:16 PDT"]
+[Termination "fxei3 venceu por xeque-mate"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 Nc6 4. Bd2 Bf5 5. h3 Nb4 6. g4 Bxc2 7. Qc1 Ne4 8. Bxb4
+Qd7 9. Qxc2 Nf6 10. Ne5 Qe6 11. Bb5+ Kd8 12. g5 Nd7 13. Nxd7 a6 14. Nxf8 axb5
+15. Nxe6+ Ke8 16. Nxc7+ Kd7 17. Na3 Ra4 18. Bxe7 Rxd4 19. exd4 Kxe7 20. f4 Ra8
+21. O-O-O Rxa3 22. bxa3 Kf8 23. Rhf1 Kg8 24. f5 Kh8 25. h4 g6 26. fxg6 fxg6 27.
+Rf7 h5 28. Re1 b4 29. axb4 b6 30. Re8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "charnett"]
+[Black "laiscarraro"]
+[Result "1-0"]
+[WhiteElo "285"]
+[BlackElo "278"]
+[TimeControl "600"]
+[EndTime "18:15:16 PDT"]
+[Termination "charnett venceu por tempo"]
+
+1. e4 e5 2. g3 Nc6 3. Qe2 Nd4 4. Qf3 Nxf3+ 5. Nxf3 Bb4 6. c3 Bc5 7. Nxe5 d6 8.
+Ng4 Qd7 9. f3 Ne7 10. d4 Bb6 11. Nf2 Ng6 12. Nd2 Qa4 13. a3 Be6 14. Rg1 d5 15.
+g4 dxe4 16. fxe4 Nf4 17. Be2 Nxe2 18. Kxe2 Qc2 19. Nh3 O-O 20. Rf1 c5 21. d5
+Bxg4+ 22. Rf3 Bxf3+ 23. Kxf3 Qd1+ 24. Ke3 c4+ 25. Kf4 Bd8 26. Nf2 Qh5 27. a4 g5+
+28. Ke5 Bc7+ 29. Kd4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "QuandelDinglThe3rd"]
+[Black "laiscarraro"]
+[Result "0-1"]
+[WhiteElo "190"]
+[BlackElo "320"]
+[TimeControl "600"]
+[EndTime "18:19:04 PDT"]
+[Termination "laiscarraro venceu por desistência"]
+
+1. e4 e5 2. Bb5 c6 3. Ba4 Nf6 4. Nf3 Nxe4 5. Nxe5 d6 6. Nf3 b5 7. d3 Nc5 8. b3
+bxa4 9. bxa4 Nxa4 10. Qd2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "NedalEmamqp"]
+[Result "1-0"]
+[WhiteElo "364"]
+[BlackElo "295"]
+[TimeControl "600"]
+[EndTime "18:22:41 PDT"]
+[Termination "laiscarraro venceu por desistência"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Qf6 5. c3 c5 6. f4 Bg4 7. Qxg4 Nh6 8. Qc8+
+Ke7 9. Qxb7+ Kd8 10. Qxa8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "4Vick"]
+[Black "laiscarraro"]
+[Result "0-1"]
+[WhiteElo "297"]
+[BlackElo "398"]
+[TimeControl "600"]
+[EndTime "18:27:32 PDT"]
+[Termination "laiscarraro venceu por desistência"]
+
+1. c4 e5 2. e4 Nf6 3. d3 d5 4. Nf3 Bc5 5. Nc3 O-O 6. Qa4 Nc6 7. Nxe5 Nxe5 8.
+Nxd5 Nxd3+ 9. Kd2 Nxf2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.11"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "Umaryverlg26"]
+[Result "0-1"]
+[WhiteElo "357"]
+[BlackElo "369"]
+[TimeControl "600"]
+[EndTime "18:46:02 PDT"]
+[Termination "Umaryverlg26 venceu por tempo"]
+
+1. e4 d6 2. d4 e5 3. Nf3 c5 4. dxe5 Nc6 5. exd6 Bxd6 6. Bg5 f6 7. Bh4 g5 8. Bg3
+Na5 9. Bb5+ Ke7 10. Bxd6+ Qxd6 11. Qxd6+ Kxd6 12. Nc3 Ne7 13. O-O a6 14. e5+
+fxe5 15. Nxg5 axb5 16. Nxb5+ Kc6 17. Nc3 h6 18. Nf7 Rh7 19. Nd8+ Kc7 20. Rfd1
+Rh8 21. Nb5+ Kb6 22. b4 Kxb5 23. bxa5 Rxd8 24. Rab1+ Kxa5 25. Rxd8 Ra6 26. Rxc8
+Nxc8 27. c4 Nb6 28. g4 Nxc4 29. h4 Ra7 30. f4 exf4 31. Rb5+ Kxb5 32. h5 Rxa2 33.
+g5 hxg5 34. h6 Ra1+ 35. Kh2 Ra2+ 36. Kh1 Ne3 37. h7 f3 38. h8=Q f2 39. Qb2+ Kc6
+40. Qxa2 f1=Q+ 41. Kh2 Qf4+ 42. Kh3 Qf1+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.13"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "christainisbad"]
+[Result "1-0"]
+[WhiteElo "395"]
+[BlackElo "386"]
+[TimeControl "600"]
+[EndTime "9:03:32 PDT"]
+[Termination "laiscarraro venceu - partida abandonada"]
+
+1. e4 g5 2. d4 e6 3. d5 Bb4+ 4. c3 Ba5 5. dxe6 fxe6 6. Nf3 c5 7. Bxg5 Qc7 8. e5
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.13"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "RyanHulk09"]
+[Result "0-1"]
+[WhiteElo "373"]
+[BlackElo "525"]
+[TimeControl "600"]
+[EndTime "16:14:12 PDT"]
+[Termination "RyanHulk09 venceu por xeque-mate"]
+
+1. e4 e5 2. Nf3 c5 3. c4 d5 4. exd5 e4 5. Ng5 Qxg5 6. h3 b5 7. cxb5 Nf6 8. Nc3
+Bg4 9. hxg4 Nxg4 10. f3 exf3 11. gxf3 Ne5 12. Ne4 Qf4 13. Nd6+ Bxd6 14. Bh3
+Nxf3+ 15. Qxf3 Qxf3 16. d4 Qxh1+ 17. Ke2 cxd4 18. Bd2 Qxh3 19. Rc1 h5 20. Bg5 f6
+21. Rc8+ Qxc8 22. Bd2 Bb4 23. Bxb4 Rh6 24. Bd2 Rg6 25. a4 Rg3 26. Bg5 fxg5 27.
+b6 axb6 28. a5 bxa5 29. b4 axb4 30. d6 Qc2+ 31. Ke1 Rg1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.13"]
+[Round "-"]
+[White "LucasMS115"]
+[Black "laiscarraro"]
+[Result "1-0"]
+[WhiteElo "547"]
+[BlackElo "356"]
+[TimeControl "600"]
+[EndTime "19:17:10 PDT"]
+[Termination "LucasMS115 venceu por tempo"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bf4 e5 5. dxe5 Ng4 6. h3 Nxf2 7. Kxf2 Bc5+ 8.
+e3 O-O 9. Nxd5 Bf5 10. e6 Bxe6 11. Bxc7 Qd7 12. Bb5 Bxd5 13. Bxc6 Qxc6 14. Ne5
+Qxc7 15. Qxd5 Qa5 16. Qxf7+ Rxf7+ 17. Nxf7 Kxf7 18. Rhd1 Qc7 19. Rd5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.13"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "LucasMS115"]
+[Result "0-1"]
+[WhiteElo "342"]
+[BlackElo "559"]
+[TimeControl "600"]
+[EndTime "19:38:34 PDT"]
+[Termination "LucasMS115 venceu por tempo"]
+
+1. e4 e5 2. Nf3 d5 3. d4 exd4 4. Nxd4 Bc5 5. Nf3 Nf6 6. Nc3 dxe4 7. Bc4 exf3 8.
+gxf3 O-O 9. Bg5 Re8+ 10. Kf1 h6 11. Qxd8 Rxd8 12. Bf4 Bh3+ 13. Ke1 Re8+ 14. Kd1
+Bxf2 15. Rf1 Bxf1 16. Nb5 Bxc4 17. b3 Nc6 18. Nxc7 Rad8+ 19. Kc1 Re1+ 20. Kb2
+Bd4+ 21. c3 Re2+ 22. Ka3 Bc5+ 23. Ka4 b5+ 24. Nxb5 Bd3 25. Bc7 Rc8 26. Be5 Rb8
+27. Bxf6 Rxb5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.14"]
+[Round "-"]
+[White "froniaaaaaaa"]
+[Black "laiscarraro"]
+[Result "0-1"]
+[WhiteElo "306"]
+[BlackElo "367"]
+[TimeControl "600"]
+[EndTime "17:29:33 PDT"]
+[Termination "laiscarraro venceu - partida abandonada"]
+
+1. f3 d5 2. c3 e5 3. a3 Nf6 4. h3 Bc5 5. Qc2 O-O 6. a4 Nc6 7. d3 e4 8. fxe4 dxe4
+9. dxe4 Re8 10. Nd2 Nd4 11. cxd4 Bxd4 12. Ngf3 Be3 13. Nc4 Rxe4 14. Nxe3 Rxe3
+15. Bxe3 Nd5 16. Bc1 Nb4 17. Qc3 Nd5 18. Qa5 b6 19. Qb4 Nxb4 20. h4 Nc2+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.18"]
+[Round "-"]
+[White "Jakethe1"]
+[Black "laiscarraro"]
+[Result "0-1"]
+[WhiteElo "395"]
+[BlackElo "394"]
+[TimeControl "600"]
+[EndTime "15:00:37 PDT"]
+[Termination "laiscarraro venceu por xeque-mate"]
+
+1. c4 e5 2. b3 Nc6 3. Bb2 d5 4. Bxe5 Nxe5 5. cxd5 Nf6 6. Qc1 Nxd5 7. e4 Nf4 8.
+Na3 Bb4 9. Rb1 O-O 10. Qxc7 Qxc7 11. Rc1 Qxc1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.18"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "Blazer369"]
+[Result "1-0"]
+[WhiteElo "423"]
+[BlackElo "474"]
+[TimeControl "600"]
+[EndTime "15:06:44 PDT"]
+[Termination "laiscarraro venceu por desistência"]
+
+1. e4 d5 2. exd5 Qxd5 3. d3 Nc6 4. c4 Qe5+ 5. Be2 Nf6 6. Nf3 Qa5+ 7. Bd2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.18"]
+[Round "-"]
+[White "conacho64"]
+[Black "laiscarraro"]
+[Result "1-0"]
+[WhiteElo "521"]
+[BlackElo "407"]
+[TimeControl "600"]
+[EndTime "15:25:51 PDT"]
+[Termination "conacho64 venceu por xeque-mate"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qf3 Bc5 4. d4 Bxd4 5. Bg5 O-O 6. Bxf6 gxf6 7. Qg3+ Kh8 8.
+Nf3 f5 9. exf5 Rg8 10. Qh4 Qxh4 11. Nxh4 Bxb2 12. Bxf7 Rg7 13. Bd5 Bxa1 14. f6
+Rf7 15. Bxf7 Nc6 16. Nf5 Nb4 17. a3 Nxc2+ 18. Kd2 Nd4 19. Ne7 d5 20. Bxd5 Bd7
+21. Bxb7 Rb8 22. Bc8 Bc6 23. f7 Ne6 24. Bxe6 Rc8 25. Nxc6 Rf8 26. Re1 Rb8 27.
+Nxb8 Bd4 28. f8=Q# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.18"]
+[Round "-"]
+[White "hmjcchelsea1"]
+[Black "laiscarraro"]
+[Result "1-0"]
+[WhiteElo "459"]
+[BlackElo "389"]
+[TimeControl "600"]
+[EndTime "15:40:38 PDT"]
+[Termination "hmjcchelsea1 venceu por xeque-mate"]
+
+1. d4 d5 2. e3 Nf6 3. Qd3 Nc6 4. Nc3 e5 5. Nb5 Nb4 6. Qc3 a5 7. dxe5 Ne4 8. Qd4
+Be7 9. f3 Ng5 10. f4 Ne4 11. f5 Nxc2+ 12. Kd1 Nxa1 13. f6 gxf6 14. exf6 Bb4 15.
+Qe5+ Be6 16. Nxc7+ Kf8 17. Nxa8 Qxa8 18. Nf3 Nf2+ 19. Ke2 Nxh1 20. Qh5 Qe8 21.
+Nh4 Rg8 22. Nf5 d4 23. Qh6+ Rg7 24. Qxg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.21"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "isyrafmagic"]
+[Result "1-0"]
+[WhiteElo "405"]
+[BlackElo "296"]
+[TimeControl "600"]
+[EndTime "8:53:55 PDT"]
+[Termination "laiscarraro venceu por desistência"]
+
+1. d4 e6 2. e4 Nc6 3. Nf3 d6 4. d5 g6 5. dxc6 bxc6 6. Nc3 e5 7. Bd3 Bg4 8. O-O
+Nf6 9. Ng5 d5 10. Qe1 Bc5 11. exd5 e4 12. Ngxe4 cxd5 13. Nxf6+ Kf8 14. Ncxd5
+Qxd5 15. Nxd5 Rd8 16. Bc4 Rd6 17. Bf4 Rd8 18. Nxc7 Rc8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.21"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "axel8901"]
+[Result "0-1"]
+[WhiteElo "386"]
+[BlackElo "409"]
+[TimeControl "600"]
+[EndTime "11:03:48 PDT"]
+[Termination "axel8901 venceu - partida abandonada"]
+
+1. e4 e5 2. Nc3 Nf6 3. d4 d5 4. dxe5 Nxe4 5. Nxe4 dxe4 6. Bc4 Bb4+ 7. c3 Ba5 8.
+Qxd8+ Kxd8 9. Bf4 Ke8 10. O-O-O g6 11. Ne2 g5 12. Bxg5 Rg8 13. Bf6 Rxg2 14. Nf4
+Rxf2 15. Nd5 c6 16. Nc7+ Bxc7 17. Rhg1 Nd7 18. Bh4 Rxh2 19. e6 fxe6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.21"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "Davimoraisr"]
+[Result "1-0"]
+[WhiteElo "404"]
+[BlackElo "378"]
+[TimeControl "600"]
+[EndTime "13:24:01 PDT"]
+[Termination "laiscarraro venceu - partida abandonada"]
+
+1. e4 e5 2. Nc3 Qh4 3. g3 Qg5 4. Nf3 Qf6 5. Nd5 Qe6 6. c4 c6 7. Nc7+ Kd8 8. Nxa8
+Qd6 9. c5 Qxc5 10. Bd3 Qb4 11. O-O Bc5 12. Nxe5 d6 13. Nxf7+ Ke7 14. Nxh8 Bxf2+
+15. Rxf2 Qd4 16. Qf1 Qxd3 17. Qxd3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.22"]
+[Round "-"]
+[White "timtreg"]
+[Black "laiscarraro"]
+[Result "1-0"]
+[WhiteElo "459"]
+[BlackElo "389"]
+[TimeControl "600"]
+[EndTime "7:24:31 PDT"]
+[Termination "timtreg venceu por tempo"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 d5 5. exd5 Bf5 6. dxc6 bxc6 7. O-O Bc5 8.
+Qe2 O-O 9. Qxe5 Ng4 10. Qxc5 Bd7 11. d4 Re8 12. Bg5 Qb8 13. Rfe1 Rxe1+ 14. Rxe1
+Qxb2 15. h3 Qxc3 16. Re7 Qxc2 17. Rxf7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.22"]
+[Round "-"]
+[White "daniel29292"]
+[Black "laiscarraro"]
+[Result "0-1"]
+[WhiteElo "220"]
+[BlackElo "401"]
+[TimeControl "600"]
+[EndTime "7:37:15 PDT"]
+[Termination "laiscarraro venceu por xeque-mate"]
+
+1. e3 d5 2. e4 e6 3. exd5 exd5 4. Nc3 Nf6 5. Nxd5 Nxd5 6. Rb1 Bf5 7. Ne2 Bd6 8.
+Ng3 Qd7 9. Ne2 O-O 10. Nc3 Re8+ 11. Qe2 Rxe2+ 12. Nxe2 Nc6 13. Nc3 Nf4 14. Na4
+Nd4 15. Bb5 Qxb5 16. Kd1 Re8 17. Ra1 Qxa4 18. a3 Nxc2 19. b4 Nxa1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.24"]
+[Round "-"]
+[White "miladkabirii"]
+[Black "laiscarraro"]
+[Result "1-0"]
+[WhiteElo "435"]
+[BlackElo "386"]
+[TimeControl "600"]
+[EndTime "5:49:17 PDT"]
+[Termination "miladkabirii venceu por xeque-mate"]
+
+1. e4 e5 2. Qh5 g6 3. Qxe5+ Be7 4. Qxh8 Bf6 5. Qxg8+ Ke7 6. Qxh7 d6 7. Bc4 Nc6
+8. Qxf7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.24"]
+[Round "-"]
+[White "laiscarraro"]
+[Black "manhmanhman"]
+[Result "0-1"]
+[WhiteElo "372"]
+[BlackElo "415"]
+[TimeControl "600"]
+[EndTime "6:05:21 PDT"]
+[Termination "manhmanhman venceu por tempo"]
+
+1. d4 d5 2. Nf3 e6 3. e4 f6 4. Bd3 c6 5. O-O dxe4 6. Bxe4 f5 7. Bd3 b5 8. Ne5
+Ba6 9. Nf7 Kxf7 10. d5 cxd5 11. Bf4 b4 12. Bxa6 Nxa6 13. Nd2 Bd6 14. Bxd6 Qxd6
+15. c4 dxc4 16. Rc1 c3 17. bxc3 bxc3 18. Rxc3 Qd5 19. Qc2 Nb4 20. Qa4 Rb8 21.
+Rf3 Nxa2 22. g4 g6 23. h3 h5 24. Re1 hxg4 25. hxg4 Nc3 26. Ne4 Nxe4 0-1
